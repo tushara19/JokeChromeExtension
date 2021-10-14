@@ -16,7 +16,7 @@ body {
 }
 
 p {
-    display: inner-flex;
+    display: inner-flex ;
     margin: auto 10px;
     font-size: 22px;
     color: lemonchiffon;
