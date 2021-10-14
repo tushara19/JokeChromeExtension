@@ -1,0 +1,29 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(ComingSoon.ttf); 
+}
+*{
+    font-family: myFirstFont;
+    font-weight: 900;
+}
+
+body {
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: lemonchiffon;
+    border-style: dotted;
+    border-width: thick;
+    border-color: rgb(233, 156, 156);
+    padding: 10px;
+    border-radius: 6px;
+    
+}
